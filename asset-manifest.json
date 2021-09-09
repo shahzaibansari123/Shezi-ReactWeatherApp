@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shezi-ReactWeatherApp/static/css/main.b8a4d02d.chunk.css",
+    "main.js": "/Shezi-ReactWeatherApp/static/js/main.654c9ad9.chunk.js",
+    "main.js.map": "/Shezi-ReactWeatherApp/static/js/main.654c9ad9.chunk.js.map",
+    "runtime-main.js": "/Shezi-ReactWeatherApp/static/js/runtime-main.d07f7e59.js",
+    "runtime-main.js.map": "/Shezi-ReactWeatherApp/static/js/runtime-main.d07f7e59.js.map",
+    "static/js/2.591fba5d.chunk.js": "/Shezi-ReactWeatherApp/static/js/2.591fba5d.chunk.js",
+    "static/js/2.591fba5d.chunk.js.map": "/Shezi-ReactWeatherApp/static/js/2.591fba5d.chunk.js.map",
+    "static/js/3.1024d4a5.chunk.js": "/Shezi-ReactWeatherApp/static/js/3.1024d4a5.chunk.js",
+    "static/js/3.1024d4a5.chunk.js.map": "/Shezi-ReactWeatherApp/static/js/3.1024d4a5.chunk.js.map",
+    "index.html": "/Shezi-ReactWeatherApp/index.html",
+    "static/css/main.b8a4d02d.chunk.css.map": "/Shezi-ReactWeatherApp/static/css/main.b8a4d02d.chunk.css.map",
+    "static/js/2.591fba5d.chunk.js.LICENSE.txt": "/Shezi-ReactWeatherApp/static/js/2.591fba5d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Shezi-ReactWeatherApp/static/media/jackson-hendry-eodA_8CTOFo-unsplash.d2e60154.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d07f7e59.js",
+    "static/js/2.591fba5d.chunk.js",
+    "static/css/main.b8a4d02d.chunk.css",
+    "static/js/main.654c9ad9.chunk.js"
+  ]
+}
